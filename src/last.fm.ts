@@ -21,6 +21,7 @@ async function getLastFmData(url: string) {
     }
 
 }
+
 function throwMissingEnvError(env: string): string {
     throw new Error(`Undefined environmental variable: ${env}`);
 
