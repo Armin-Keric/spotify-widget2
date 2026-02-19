@@ -1,5 +1,5 @@
-import type {LastFMInterface} from "./LastFMInterface.ts";
-import {data} from "./last.fm.ts";
+import type {LastFMInterface} from "../types/LastFMInterface.ts";
+import {data} from "../api/last.fm.ts";
 
 const musicData: LastFMInterface = data.recenttracks.track[0];
 
