@@ -15,6 +15,7 @@ This is a small project for trying out TypeScript and in general fetching someth
 # Prerequisities
 
 - Be sure that you already installed Bun. For reference please check out the official [Bun docs](https://bun.com/docs/installation)
+- An API Key from last.fm is needed. For reference please check out the official [last.fm docs](https://www.last.fm/api#getting-started)
 
 # Installation
 
